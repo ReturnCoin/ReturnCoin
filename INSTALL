@@ -1,0 +1,9 @@
+Building ReturnCoin
+
+See doc/readme-qt.rst for instructions on building ReturnCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ReturnCoin.
+
+See doc/build-*.txt for instructions on building returncoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of ReturnCoin.
